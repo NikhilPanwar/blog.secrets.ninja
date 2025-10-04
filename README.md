@@ -1,4 +1,3 @@
-blog.secrets.ninja
 ```
 Coming Soon
 ```
